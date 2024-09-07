@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JingYang57&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JingYang57&theme=ayu-mirage&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JingYang57&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<figure><embed src="https://wakatime.com/share/@caa98914-925f-45e1-bcb2-7f7a718a2c94/a520c4f5-7921-46fd-a92c-e9633e20f998.svg"></embed></figure>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JingYang57&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![]("https://wakatime.com/share/@caa98914-925f-45e1-bcb2-7f7a718a2c94/9a4baa1d-2a33-4f63-a19a-c18241ee7c21.svg")
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
